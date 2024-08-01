@@ -1,16 +1,14 @@
 import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Button from "react-bootstrap/Button";
+import "../App.css";
 
-import "./App.css";
-import LandingPage from "./templates/LandingPage";
-
-function App() {
+function LandingPage() {
   return (
     <>
-      <LandingPage />
+      <Button>Nice</Button>
     </>
   );
 }
 
-export default App;
+export default LandingPage;
