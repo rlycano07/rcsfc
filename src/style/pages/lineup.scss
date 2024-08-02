@@ -1,0 +1,36 @@
+.football-pitch {
+    background-color: $pitch-color;
+    height: 700px;
+    width: 500px;
+    margin: auto;
+    overflow: hidden;
+
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.player {
+    width: 60px;
+    height: 80px;
+    background-color: $secondary-color;
+    border: 1px solid $primary-color;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@include smaller-devices {
+    .football-pitch {
+        max-width: 100%;
+        width: 280px;
+        max-height: 400px;
+    }
+
+    .player {
+        width: 30px;
+        height: 40px;
+    }
+}

@@ -3,11 +3,12 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Button from "react-bootstrap/Button";
 
 import LandingPage from "./templates/LandingPage";
+import LineUp from "./templates/LineUp";
 
 function App() {
   return (
     <>
-      <LandingPage />
+      <LineUp />
     </>
   );
 }
