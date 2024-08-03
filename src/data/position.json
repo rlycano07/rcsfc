@@ -1,0 +1,177 @@
+{
+  "cf": {
+    "position": "2,4",
+    "row-position": "2",
+    "column-position": "4"
+  },
+  "lw": {
+    "position": "2 / span 2,1",
+    "row-position": "2 / span 2",
+    "column-position": "1"
+  },
+  "lcf": {
+    "position": "2, 3 / span 2",
+    "row-position": "2",
+    "column-position": "3 / span 2"
+  },
+  "rcf": {
+    "position": "2, 2 / span 2",
+    "row-position": "2",
+    "column-position": "2 / span 2"
+  },
+  "rw": {
+    "position": "2 / span 2,7",
+    "row-position": "2 / span 2",
+    "column-position": "7"
+  },
+  "lwm": {
+    "position": "3 / span 2, 1",
+    "row-position": "3 / span 2",
+    "column-position": "1"
+  },
+  "lam": {
+    "position": "3 / span 2, 1 / span 2",
+    "row-position": "3 / span 2",
+    "column-position": "1 / span 2"
+  },
+  "lcam": {
+    "position": "3 / span 2, 2 / span 2",
+    "row-position": "3 / span 2",
+    "column-position": "2 / span 2"
+  },
+  "cam": {
+    "position": "3 / span 2, 3",
+    "row-position": "3 / span 2",
+    "column-position": "3"
+  },
+  "rcam": {
+    "position": "3 / span 2, 5 / span 2",
+    "row-position": "3 / span 2",
+    "column-position": "5 / span 2"
+  },
+  "ram": {
+    "position": "3 / span 2, 6 / span 2",
+    "row-position": "3 / span 2",
+    "column-position": "6 / span 2"
+  },
+  "rwm": {
+    "position": "3 / span 2, 7",
+    "row-position": "3 / span 2",
+    "column-position": "7"
+  },
+  "lm": {
+    "position": "4 / span 2, 2",
+    "row-position": "4 / span 2",
+    "column-position": "2"
+  },
+  "lcm2": {
+    "position": "5, 2",
+    "row-position": "5",
+    "column-position": "2"
+  },
+  "lcm": {
+    "position": "5, 3",
+    "row-position": "5",
+    "column-position": "3"
+  },
+  "cm": {
+    "position": "5, 4",
+    "row-position": "5",
+    "column-position": "4"
+  },
+  "rcm2": {
+    "position": "5, 6",
+    "row-position": "5",
+    "column-position": "6"
+  },
+  "rcm": {
+    "position": "5, 5",
+    "row-position": "5",
+    "column-position": "5"
+  },
+  "rm": {
+    "position": "4 / span 2, 4",
+    "row-position": "4 / span 2",
+    "column-position": "4"
+  },
+  "lwb": {
+    "position": "6 / span 2, 1",
+    "row-position": "6 / span 2",
+    "column-position": "1"
+  },
+  "ldm": {
+    "position": "6 / span 2, 2 / span 2",
+    "row-position": "6 / span 2",
+    "column-position": "2 / span 2"
+  },
+  "lcdm": {
+    "position": "6 / span 2, 3",
+    "row-position": "6 / span 2",
+    "column-position": "3"
+  },
+  "cdm": {
+    "position": "6 / span 2,4",
+    "row-position": "6 / span 2",
+    "column-position": "4"
+  },
+  "rcdm": {
+    "position": "6 / span 2, 5",
+    "row-position": "6 / span 2",
+    "column-position": "5"
+  },
+  "rdm": {
+    "position": "6 / span 2, 5 / span 2",
+    "row-position": "6 / span 2",
+    "column-position": "5 / span 2"
+  },
+  "rwb": {
+    "position": "6 / span 2, 7",
+    "row-position": "6 / span 2",
+    "column-position": "7"
+  },
+  "lb": {
+    "position": "6 / span 2, 4 / span 2",
+    "row-position": "6 / span 2",
+    "column-position": "4 / span 2"
+  },
+  "lcb2": {
+    "position": "7, 2 / span 2",
+    "row-position": "7",
+    "column-position": "2 / span 2"
+  },
+  "lcb": {
+    "position": "7,3 / span 2",
+    "row-position": "7",
+    "column-position": "3 / span 2"
+  },
+  "cb": {
+    "position": "7,4",
+    "row-position": "7",
+    "column-position": "4"
+  },
+  "rcb": {
+    "position": "7, 5 / span 2",
+    "row-position": "7",
+    "column-position": "5 / span 2"
+  },
+  "rcb2": {
+    "position": "7,6",
+    "row-position": "7",
+    "column-position": "6"
+  },
+  "rb": {
+    "position": "6 / span 2,7",
+    "row-position": "6 / span 2",
+    "column-position": "7"
+  },
+  "sw": {
+    "position": "8 / span 2,4",
+    "row-position": "8 / span 2",
+    "column-position": "4"
+  },
+  "gk": {
+    "position": "8, 3",
+    "row-position": "8",
+    "column-position": "3"
+  }
+}

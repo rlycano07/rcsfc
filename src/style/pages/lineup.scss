@@ -1,63 +1,103 @@
 .football-pitch {
     background-color: $pitch-color;
-    height: 700px;
-    width: 500px;
+    height: 800px;
+    width: 600px;
     margin: auto;
     overflow: hidden;
 
-    position: relative;
-    display: grid;
-    grid-template-rows: auto;
-}
 
-.attack-row,
-.mid-row,
-.defence-row,
-.gk-row {
     display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
     justify-items: center;
     align-items: center;
 }
 
-.row-players {
-    &-1 {
-        grid-template-columns: 1fr;
-    }
-    &-2 {
-        grid-template-columns: 1fr 1fr;
-    }
-    &-3 {
-        grid-template-columns: 1fr 1fr 1fr;
-    }
-    &-4 {
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-    }
-    &-5 {
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    }
+.pitch-grid {
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image: linear-gradient(#ffffff 2.8000000000000003px, transparent 2.8000000000000003px), linear-gradient(to right, #ffffff 2.8000000000000003px, #107403 2.8000000000000003px);
+    background-size: 120px 100px;
 }
 
 .player {
     width: 60px;
-    height: 80px;
+    height: 60px;
     background-color: $secondary-color;
     border: 1px solid $primary-color;
     cursor: pointer;
+    border-radius: 80%;
 
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+.lcf {
+    grid-row: 2;
+    grid-column: 1 / span 2;
+}
+
+.rcf {
+    grid-row: 2;
+    grid-column: 4 / span 2;
+}
+
+.cam {
+    grid-row: 3 ;
+    grid-column: 3;
+}
+
+.lm {
+    grid-row: 4 ;
+    grid-column: 2;
+}
+
+.rm {
+    grid-row: 4 ;
+    grid-column: 4;
+}
+
+.cdm {
+    grid-row: 5;
+    grid-column: 3;
+}
+
+.rb {
+    grid-row: 5 / span 2;
+    grid-column: 5 / span 2;
+}
+
+.lb {
+    grid-row: 5 / span 2;
+    grid-column: 1 ;
+}
+
+.lcb {
+    grid-row: 6 / span 2;
+    grid-column: 1 / span 3;
+}
+
+.rcb {
+    grid-row: 6 / span 2;
+    grid-column: 3 /span 3;
+}
+
+.gk {
+    grid-row: 8;
+    grid-column: 3;
+}
+
 @include smaller-devices {
     .football-pitch {
-        max-width: 100%;
-        width: 280px;
-        max-height: 400px;
+        height: 400px;
+        width: 300px;
     }
 
     .player {
         width: 30px;
-        height: 40px;
+        height: 30px;
     }
 }

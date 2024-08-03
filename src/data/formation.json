@@ -1,0 +1,58 @@
+[
+  {
+    "name": "4-1-2-1-2(N)",
+    "formation": "gk,rb,rcb,lcb,lb,cdm,lcm2,rcm2,cam,lcf,rcf"
+  },
+  {
+    "name": "4-1-2-1-2(W)",
+    "formation": "gk,rb,rcb,lcb,lb,cdm,lm,rm,cam,lcf,rcf"
+  },
+  {
+    "name": "5-3-2",
+    "formation": "gk,rwb,rcb2,cb,lcb2,lwb,lcm2,cm,rcm2,lcf,rcf"
+  },
+  {
+    "name": "4-4-1-1",
+    "formation": "gk,rb,rcb,lcb,lb,rcm,lcm,rm,lm,cam,cf"
+  },
+  {
+    "name": "4-3-3(D)",
+    "formation": "gk,rb,rcb,lcb,lb,ldm,cm,rdm,rw,lw,cf"
+  },
+  {
+    "name": "4-2-3-1",
+    "formation": "gk,rb,rcb,lcb,lb,lcdm,rcdm,ram,lam,cam,cf"
+  },
+  {
+    "name": "3-4-3(F)",
+    "formation": "gk,rcb2,cb,lcb2,rcm,lcm,rm,lm,lw,rw,cf"
+  },
+  {
+    "name": "3-4-3(D)",
+    "formation": "gk,rcb2,cb,lcb2,cdm,cam,rm,lm,lw,rw,cf"
+  },
+  {
+    "name": "4-1-4-1",
+    "formation": "gk,rb,rcb,lcb,lb,cdm,rm,rcm,lcm,lm,cf"
+  },
+  {
+    "name": "4-3-3(H)",
+    "formation": "gk,rb,rcb,lcb,lb,cdm,rcm2,lcm2,rw,lw,cf"
+  },
+  {
+    "name": "4-3-3(A)",
+    "formation": "gk,rb,rcb,lcb,lb,lcm2,rcm2,cam,rw,lw,cf"
+  },
+  {
+    "name": "4-3-3(F)",
+    "formation": "gk,rb,rcb,lcb,lb,lcm2,cm,rcm2,rw,lw,cf"
+  },
+  {
+    "name": "4-4-2",
+    "formation": "gk,rb,rcb,lcb,lb,rcm,lcm,rm,lm,lcf,rcf"
+  },
+  {
+    "name": "4-3-2-1",
+    "formation": "gk,rb,rcb,lcb,lb,cm,lm,rm,rcam,lcam,cf"
+  }
+]
